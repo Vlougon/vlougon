@@ -6,9 +6,9 @@
 
 ## About me:
 I see myself as a calm, persistent and hard-working person, giving my very best into every project I work on. Whether it be a Single or Team Project I can take it! 
-In my freetime, I enjoy reading some books, going to the beach or playing videogames. As a mather of fact, these were the reason why I started my career as a Web Developer.
+In my freetime, I enjoy reading books, going to the beach or playing videogames. As a matter of fact, these were the reason why I started my career as a Web Developer.
 Even though I can work as a Full-Stack Developer, I do prefer working as a Backend Dev. Furthermore, I like to take some time planning how I would address the project I'm facing.
-In addition, one of my best aptitudes is to be autodidactic, making capable of learning new knowledge by my own.
+In addition, one of my best aptitudes is to be autodidactic, making me capable of learning new knowledge on my own.
 
 ## Contact me:
 <div align="center">
@@ -89,3 +89,9 @@ In addition, one of my best aptitudes is to be autodidactic, making capable of l
 ##
 
 <h3 align="left">GitHub Stats:</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlougon&langs_count=7&layout=compact&theme=react&hide_border=true" alt="Top 7 Languages"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vlougon&show_icons=true&theme=react&hide_border=true" alt="Github Stats"  />
+  <img src="https://streak-stats.demolab.com?user=vlougon&theme=react&hide_border=true" alt="GitHub Streak"  />
+</div>
