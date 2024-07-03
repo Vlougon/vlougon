@@ -6,7 +6,7 @@
 
 ![Repositories Badge](https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue/vlougon?color=3385ff&labelColor=005ce6&style=for-the-badge&logo=repo&label=Repos&logoColor=white)
 ![Stars Badge](https://custom-icon-badges.demolab.com/github/stars/vlougon?color=e6b800&labelColor=b38f00&style=for-the-badge&logo=star&label=Stars&logoColor=white)
-![Follow Badge](https://custom-icon-badges.demolab.com/github/followers/vlougon?color=ff1a8c&labelColor=cc0066&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)
+![Follow Badge](https://custom-icon-badges.demolab.com/github/followers/vlougon?color=ff1a8chttps://custom-icon-badges.demolab.com/github/followers/vlougonlabelColor=cc0066https://custom-icon-badges.demolab.com/github/followers/vlougonstyle=for-the-badgehttps://custom-icon-badges.demolab.com/github/followers/vlougonlogo=person-addhttps://custom-icon-badges.demolab.com/github/followers/vlougonlabel=Followhttps://custom-icon-badges.demolab.com/github/followers/vlougonlogoColor=white?color=ff1a8c&labelColor=cc0066&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)
 ![Watchers Badge](https://custom-icon-badges.demolab.com/github/forks/Vlougon/vlougon?color=00cc00&labelColor=009900&style=for-the-badge&logo=fork&label=Forks&logoColor=white)
 
 </div>
