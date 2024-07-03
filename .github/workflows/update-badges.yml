@@ -11,9 +11,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
-        with:
-          node-version: "20.x"
+        uses: actions/checkout@v4
 
       - name: Update Follow Badge
         run: |
@@ -21,7 +19,7 @@ jobs:
 
           FOLLOWERS=$(curl -s https://api.github.com/users/$GITHUB_USER | jq .followers)
 
-          sed -i "https://custom-icon-badges.demolab.com/github/followers/vlougon?color=ff1a8c&labelColor=cc0066&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" README.md
+          sed -i "s|https://custom-icon-badges.demolab.com/github/followers/[^?]*|https://custom-icon-badges.demolab.com/github/followers/$GITHUB_USER?color=ff1a8c&labelColor=cc0066&style=for-the-badge&logo=person-add&label=Follow&logoColor=white|g" README.md
 
       - name: Commit changes
         run: |
