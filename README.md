@@ -4,14 +4,14 @@
 
 <div align="center">
 
-![Repositories Badge](https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue/vlougon?color=3385ff&labelColor=005ce6&style=for-the-badge&logo=repo&label=Repos&logoColor=white)
+[![Repositories Badge](https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue/vlougon?color=3385ff&labelColor=005ce6&style=for-the-badge&logo=repo&label=Repos&logoColor=white)](https://github.com/Vlougon?tab=repositories)
 ![Stars Badge](https://custom-icon-badges.demolab.com/github/stars/vlougon?color=e6b800&labelColor=b38f00&style=for-the-badge&logo=star&label=Stars&logoColor=white)
 ![Follow Badge](https://custom-icon-badges.demolab.com/github/followers/vlougon?color=ff1a8c&labelColor=cc0066&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)
 ![Watchers Badge](https://custom-icon-badges.demolab.com/github/forks/Vlougon/vlougon?color=00cc00&labelColor=009900&style=for-the-badge&logo=fork&label=Forks&logoColor=white)
 
 </div>
 
-- 🔭 I’m currently working on a **Call Center Simulator Web App**
+- :telescope: I’m currently working on a **Call Center Simulator Web App**
 
 ## :bust_in_silhouette: About me:
 I see myself as a calm, persistent and hard-working person, giving my very best into every project I work on. Whether it be a Single or Team Project I can take it! 
@@ -22,7 +22,7 @@ In addition, one of my best aptitudes is to be autodidactic, making me capable o
 ## :e-mail: Contact me:
 <div align="center">
   <a href="mailto:vlougongs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/v%C3%ADctor-lourenco-gonz%C3%A1lez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/v%C3%ADctor-lourenco-gonz%C3%A1lez-4799b8302/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 </div>
 
 ---
