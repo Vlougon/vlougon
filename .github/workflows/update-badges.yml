@@ -23,8 +23,8 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --global user.name 'Vlougon'
-          git config --global user.email 'vlougongs@gmail.com'
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
           git commit -m "Update: README Badges"
-          git push https://@github.com/vlougon/vlougon.git
+          git push
