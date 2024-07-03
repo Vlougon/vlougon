@@ -106,7 +106,11 @@ In addition, one of my best aptitudes is to be autodidactic, making me capable o
 
 <div align="center">
 
-
+![GitHub Streak](https://streak-stats.demolab.com?user=vlougon&theme=react&hide_border=true)
+###
+![Github Stats](https://github-readme-stats.vercel.app/api?username=vlougon&show_icons=true&theme=react&hide_border=true)
+###
+![Top 7 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vlougon&langs_count=7&layout=donut&theme=react&hide_border=true)
 
 </div>
 
