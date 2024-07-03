@@ -22,11 +22,9 @@ jobs:
           sed -i "s|https://custom-icon-badges.demolab.com/github/followers/[^?]*|https://custom-icon-badges.demolab.com/github/followers/$GITHUB_USER?color=ff1a8c&labelColor=cc0066&style=for-the-badge&logo=person-add&label=Follow&logoColor=white|g" README.md
 
       - name: Commit changes
-        env:
-          TOKEN: ${{ secrets.ACTIONS_SECRET }}
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --global user.name 'Vlougon'
+          git config --global user.email 'vlougongs@gmail.com'
           git add README.md
           git commit -m "Update: README Badges"
-          git push https://vlougon:${TOKEN}@github.com/vlougon/vlougon.git
+          git push https://@github.com/vlougon/vlougon.git
